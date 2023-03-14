@@ -1,0 +1,9 @@
+[submodule "School_Ear"]
+	path = School_Ear
+	url = https://github.com/fayeyoussou/School_Ear
+[submodule "school_ejb"]
+	path = school_ejb
+	url = https://github.com/fayeyoussou/school_ejb
+[submodule "WebSchool"]
+	path = WebSchool
+	url = https://github.com/fayeyoussou/WebSchool
